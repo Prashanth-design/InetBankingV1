@@ -122,3 +122,39 @@
 2020-11-03 23:06:41,666 [main] INFO eBanking - user name provided
 2020-11-03 23:06:41,882 [main] INFO eBanking - password provided
 2020-11-03 23:06:49,888 [main] INFO eBanking - Login passed
+2020-11-04 01:16:00,124 [main] INFO eBanking - user name provided
+2020-11-04 01:16:00,559 [main] INFO eBanking - password provided
+2020-11-04 01:16:06,379 [main] INFO eBanking - Login passed
+2020-11-04 01:16:13,870 [main] INFO eBanking - user name provided
+2020-11-04 01:16:14,040 [main] INFO eBanking - password provided
+2020-11-04 01:16:22,086 [main] INFO eBanking - user name provided
+2020-11-04 01:16:22,245 [main] INFO eBanking - password provided
+2020-11-04 01:16:27,662 [main] INFO eBanking - user name provided
+2020-11-04 01:16:27,786 [main] INFO eBanking - password provided
+2020-11-04 01:16:34,090 [main] INFO eBanking - Login passed
+2020-11-04 01:16:39,766 [main] INFO eBanking - user name provided
+2020-11-04 01:16:39,914 [main] INFO eBanking - password provided
+2020-11-04 01:17:37,689 [main] INFO eBanking - user name provided
+2020-11-04 01:17:37,958 [main] INFO eBanking - password provided
+2020-11-04 01:17:43,244 [main] INFO eBanking - Login passed
+2020-11-04 01:17:48,804 [main] INFO eBanking - user name provided
+2020-11-04 01:17:48,934 [main] INFO eBanking - password provided
+2020-11-04 01:17:55,214 [main] INFO eBanking - user name provided
+2020-11-04 01:17:55,314 [main] INFO eBanking - password provided
+2020-11-04 01:19:43,125 [main] INFO eBanking - user name provided
+2020-11-04 01:19:43,446 [main] INFO eBanking - password provided
+2020-11-04 01:19:49,724 [main] INFO eBanking - Login passed
+2020-11-04 01:19:58,193 [main] INFO eBanking - user name provided
+2020-11-04 01:19:58,323 [main] INFO eBanking - password provided
+2020-11-04 01:20:03,751 [main] INFO eBanking - user name provided
+2020-11-04 01:20:03,884 [main] INFO eBanking - password provided
+2020-11-04 01:20:09,217 [main] INFO eBanking - user name provided
+2020-11-04 01:20:09,360 [main] INFO eBanking - password provided
+2020-11-04 01:20:14,629 [main] INFO eBanking - Login passed
+2020-11-04 01:20:20,688 [main] INFO eBanking - user name provided
+2020-11-04 01:20:20,802 [main] INFO eBanking - password provided
+2020-11-04 01:23:54,698 [main] INFO eBanking - URL Opened
+2020-11-04 01:23:58,490 [main] INFO eBanking - Username entered
+2020-11-04 01:23:58,702 [main] INFO eBanking - Password entered
+2020-11-04 01:23:59,933 [main] INFO eBanking - Clicked submit button
+2020-11-04 01:23:59,954 [main] INFO eBanking - LoginTest passed
