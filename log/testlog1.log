@@ -183,3 +183,8 @@
 2020-11-04 20:45:13,803 [main] INFO eBanking - Password entered
 2020-11-04 20:45:21,924 [main] INFO eBanking - Clicked submit button
 2020-11-04 20:45:21,942 [main] INFO eBanking - LoginTest passed
+2020-11-04 21:01:53,082 [main] INFO eBanking - URL Opened
+2020-11-04 21:02:01,432 [main] INFO eBanking - Username entered
+2020-11-04 21:02:01,686 [main] INFO eBanking - Password entered
+2020-11-04 21:02:05,144 [main] INFO eBanking - Clicked submit button
+2020-11-04 21:02:05,178 [main] INFO eBanking - LoginTest passed
