@@ -188,3 +188,13 @@
 2020-11-04 21:02:01,686 - eBanking -INFO - Password entered
 2020-11-04 21:02:05,144 - eBanking -INFO - Clicked submit button
 2020-11-04 21:02:05,178 - eBanking -INFO - LoginTest passed
+2020-11-04 21:27:02,205 - eBanking -INFO - URL Opened
+2020-11-04 21:27:07,655 - eBanking -INFO - Username entered
+2020-11-04 21:27:07,834 - eBanking -INFO - Password entered
+2020-11-04 21:27:09,841 - eBanking -INFO - Clicked submit button
+2020-11-04 21:27:10,039 - eBanking -INFO - LoginTest passed
+2020-11-04 21:43:28,830 - eBanking -INFO - URL Opened
+2020-11-04 21:43:36,983 - eBanking -INFO - Username entered
+2020-11-04 21:43:37,238 - eBanking -INFO - Password entered
+2020-11-04 21:43:41,052 - eBanking -INFO - Clicked submit button
+2020-11-04 21:43:41,068 - eBanking -INFO - LoginTest passed
